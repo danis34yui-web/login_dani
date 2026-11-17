@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Login Danni</string>
+    <string name="login_title">Bienvenido de nuevo</string>
+    <string name="login_subtitle">Inicia sesión para continuar</string>
+    <string name="login_email">Correo electrónico</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_show_password">Mostrar contraseña</string>
+    <string name="login_hide_password">Ocultar contraseña</string>
+    <string name="login_remember">Recordarme</string>
+    <string name="login_forgot">¿Olvidaste tu contraseña?</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="login_or">o</string>
+    <string name="login_google">Continuar con Google</string>
+    <string name="login_no_account">¿No tienes cuenta?</string>
+    <string name="login_register">Regístrate</string>
+    <string name="error_email_empty">Escribe tu correo electrónico</string>
+    <string name="error_email_invalid">Ingresa un correo válido, por ejemplo nombre@correo.com</string>
+    <string name="error_password_empty">Escribe tu contraseña</string>
+    <string name="error_password_short">Usa al menos 8 caracteres</string>
+    <string name="error_credentials">Correo o contraseña incorrectos. Revisa tus datos e inténtalo de nuevo.</string>
+    <string name="demo_hint">Prueba: demo@correo.com / Demo1234</string>
+    <string name="welcome_title">¡Sesión iniciada!</string>
+    <string name="welcome_logout">Cerrar sesión</string>
+    <string name="feature_soon">Disponible próximamente</string>
+</resources>
